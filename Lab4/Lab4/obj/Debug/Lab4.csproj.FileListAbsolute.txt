@@ -1,0 +1,20 @@
+C:\Users\Полина\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Полина\source\repos\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Полина\source\repos\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Полина\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Полина\source\repos\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Полина\source\repos\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Полина\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Полина\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Полина\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Полина\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Вероника\Desktop\2 курс 3 семак\кг\Lab4\Lab4\obj\Debug\Lab4.pdb
